@@ -47,7 +47,7 @@ As online transactions grow, so do fraudulent activities, leading to significant
 ## How to Run the Project
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fraud-detection-ml.git
+git clone https://github.com/Neelimavanukuri/fraud-detection-ml
 cd fraud-detection-ml
 ```
 ### 2. Install Dependencies
